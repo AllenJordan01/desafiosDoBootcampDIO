@@ -1,3 +1,5 @@
+// Desafio 01 - Classificador de nível de herói
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
